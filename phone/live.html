@@ -11,7 +11,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "live.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "jquery.museresponsive.js", "require.js", "live.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="../images/favicon.ico?crc=4063998014"/>
@@ -19,11 +19,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=4168453755"/>
   <link rel="stylesheet" type="text/css" href="css/master_experia-mobile.css?crc=372202821"/>
-  <link rel="stylesheet" type="text/css" href="css/live.css?crc=354479024" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/live.css?crc=3961055855" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_experia-mobile.css?crc=3932860785"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_live.css?crc=533416449" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_live.css?crc=139866588" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -39,18 +39,18 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <a class="nonblock nontext clearfix" id="u93571-4" href="index.html"><!-- content --><p>Cherry Universe</p></a>
      </div>
      <div class="browser_width colelem" id="menuu93574-bw">
-      <nav class="MenuBar clearfix" id="menuu93574"><!-- horizontal box -->
+      <nav class="MenuBar rounded-corners clearfix" id="menuu93574"><!-- horizontal box -->
        <div class="MenuItemContainer clearfix grpelem" id="u93575"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u93578" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93581-4"><!-- content --><p class="shared_content" data-content-guid="u93581-4_0_content">The Hub</p></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem" id="u93578" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93581-4"><!-- content --><p class="shared_content" data-content-guid="u93581-4_0_content">The Hub</p></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u93582"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem" id="u93583" href="live.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93586-4"><!-- content --><p class="shared_content" data-content-guid="u93586-4_0_content">Live</p></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox rounded-corners clearfix colelem" id="u93583" href="live.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93586-4"><!-- content --><p class="shared_content" data-content-guid="u93586-4_0_content">Live</p></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u93619"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u93622" href="products.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93625-4"><!-- content --><p class="shared_content" data-content-guid="u93625-4_0_content">Products</p></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem" id="u93622" href="products.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93625-4"><!-- content --><p class="shared_content" data-content-guid="u93625-4_0_content">Products</p></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u93640"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u93643" href="support.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93644-4"><!-- content --><p class="shared_content" data-content-guid="u93644-4_0_content">Support</p></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem" id="u93643" href="support.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u93644-4"><!-- content --><p class="shared_content" data-content-guid="u93644-4_0_content">Support</p></div></a>
        </div>
       </nav>
      </div>
@@ -82,10 +82,19 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <p><span id="u97121-3">Server</span></p>
       </div>
      </div>
-     <a class="nonblock nontext clip_frame colelem" id="u97114" href="celestial.html"><!-- image --><img class="block temp_no_img_src" id="u97114_img" data-orig-src="../images/celestial%20anarchy-crop-u97114.png?crc=4204989650" data-hidpi-src="../images/celestial%20anarchy-crop-u97114_2x.png?crc=231011427" alt="" data-heightwidthratio="1" data-image-width="76" data-image-height="76" src="../images/blank.gif?crc=4208392903"/></a>
-     <div class="clearfix colelem shared_content" id="u97122-6" data-content-guid="u97122-6_content"><!-- content -->
-      <p><span id="u97122">Celestial</span></p>
-      <p><span id="u97122-3">World</span></p>
+     <div class="clearfix colelem" id="pu97114"><!-- group -->
+      <a class="nonblock nontext clip_frame grpelem" id="u97114" href="celestial.html"><!-- image --><img class="block temp_no_img_src" id="u97114_img" data-orig-src="../images/celestial%20anarchy-crop-u97114.png?crc=4204989650" data-hidpi-src="../images/celestial%20anarchy-crop-u97114_2x.png?crc=231011427" alt="" data-heightwidthratio="1" data-image-width="76" data-image-height="76" src="../images/blank.gif?crc=4208392903"/></a>
+      <a class="nonblock nontext clip_frame grpelem" id="u148961" href="solar.html"><!-- image --><img class="block temp_no_img_src" id="u148961_img" data-orig-src="../images/solar%20globe%20logo76x76.jpg?crc=94251531" data-hidpi-src="../images/solar%20globe%20logo76x76_2x.jpg?crc=4260773608" alt="" data-heightwidthratio="1" data-image-width="76" data-image-height="76" src="../images/blank.gif?crc=4208392903"/></a>
+     </div>
+     <div class="clearfix colelem" id="pu97122-6"><!-- group -->
+      <div class="clearfix grpelem shared_content" id="u97122-6" data-content-guid="u97122-6_content"><!-- content -->
+       <p><span id="u97122">Celestial</span></p>
+       <p><span id="u97122-3">World</span></p>
+      </div>
+      <div class="clearfix grpelem shared_content" id="u148963-6" data-content-guid="u148963-6_content"><!-- content -->
+       <p><span id="u148963">Solar</span></p>
+       <p><span id="u148963-3">Globe</span></p>
+      </div>
      </div>
      <img class="colelem temp_no_img_src" id="u97107-14" alt="Welcome to Network Services Network Services is the centralised home for all Cherry Universe networking services. Also known as Live Services, Network Services provides a foundation and central home for all of the online / internet based products or services that we produce. From the power of L-NET to the social productivity of Celestial Universe, Network Services is a critical part of our Universe's ecosystem and provides one of the best networked service platform that we have ever made. Welcome to Network Services. Lets get started!" data-orig-src="../images/u97107-14.png?crc=432993017" data-hidpi-src="../images/u97107-14_2x.png?crc=3833584519" data-image-width="414" src="../images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      <div class="browser_width colelem shared_content" id="u97124-bw" data-content-guid="u97124-bw_content">
@@ -105,10 +114,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <p id="u94304-6">Cherry Universe ©2023</p>
         <p id="u94304-8">CU Experia Mobile</p>
        </div>
-       <div class="hidpi_button unavailable grpelem" id="u104344"><!-- simple frame --></div>
+       <div class="museBGSize hidpi_button unavailable grpelem" id="u104344"><!-- simple frame --></div>
       </div>
      </div>
     </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="../images/unavailable.png?crc=4136258698" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/unavailable_2x.png?crc=4264099715" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_rollover.png?crc=125515327" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_rollover_2x.png?crc=4094218968" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_mousedown.png?crc=4137614313" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_mousedown_2x.png?crc=110711512" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on.png?crc=398345189" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_2x.png?crc=463176457" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_rollover.png?crc=3975682548" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_rollover_2x.png?crc=155171200" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_mousedown.png?crc=398345189" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_mousedown_2x.png?crc=3799609924" alt="" src="../images/blank.gif?crc=4208392903"/>
    </div>
   </div>
   <div class="breakpoint" id="bp_380" data-min-width="321" data-max-width="380"><!-- responsive breakpoint node -->
@@ -116,18 +139,18 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu93571-4"><!-- column -->
      <span class="browser_width colelem placeholder" data-placeholder-for="u93571-4-bw_content"><!-- placeholder node --></span>
      <div class="browser_width colelem temp_no_id" data-orig-id="menuu93574-bw">
-      <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu93574"><!-- horizontal box -->
+      <nav class="MenuBar rounded-corners clearfix temp_no_id" data-orig-id="menuu93574"><!-- horizontal box -->
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93575"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u93578"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93581-4"><!-- content --><span class="placeholder" data-placeholder-for="u93581-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem temp_no_id" href="index.html" data-orig-id="u93578"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93581-4"><!-- content --><span class="placeholder" data-placeholder-for="u93581-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93582"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem temp_no_id" href="live.html" data-orig-id="u93583"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93586-4"><!-- content --><span class="placeholder" data-placeholder-for="u93586-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox rounded-corners clearfix colelem temp_no_id" href="live.html" data-orig-id="u93583"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93586-4"><!-- content --><span class="placeholder" data-placeholder-for="u93586-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93619"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="products.html" data-orig-id="u93622"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93625-4"><!-- content --><span class="placeholder" data-placeholder-for="u93625-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem temp_no_id" href="products.html" data-orig-id="u93622"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93625-4"><!-- content --><span class="placeholder" data-placeholder-for="u93625-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93640"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="support.html" data-orig-id="u93643"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93644-4"><!-- content --><span class="placeholder" data-placeholder-for="u93644-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem temp_no_id" href="support.html" data-orig-id="u93643"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93644-4"><!-- content --><span class="placeholder" data-placeholder-for="u93644-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
       </nav>
      </div>
@@ -145,13 +168,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="clearfix grpelem placeholder" data-placeholder-for="u97119-6_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u97120-6_content"><!-- placeholder node --></span>
      </div>
-     <div class="clearfix colelem" id="pu97114"><!-- group -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu97114"><!-- group -->
       <a class="nonblock nontext clip_frame grpelem temp_no_id" href="celestial.html" data-orig-id="u97114"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="../images/celestial%20anarchy75x76.png?crc=3878919662" data-hidpi-src="../images/celestial%20anarchy75x76_2x.png?crc=349775709" alt="" data-heightwidthratio="1" data-image-width="75" data-image-height="75" data-orig-id="u97114_img" src="../images/blank.gif?crc=4208392903"/></a>
       <a class="nonblock nontext clip_frame grpelem temp_no_id" href="l-net.html" data-orig-id="u97110"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="../images/l-net%20logo%20transparent75x75.png?crc=3787708182" data-hidpi-src="../images/l-net%20logo%20transparent75x75_2x.png?crc=4034676131" alt="" data-heightwidthratio="1" data-image-width="75" data-image-height="75" data-orig-id="u97110_img" src="../images/blank.gif?crc=4208392903"/></a>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="solar.html" data-orig-id="u148961"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="../images/solar%20globe%20logo75x75.jpg?crc=42726899" data-hidpi-src="../images/solar%20globe%20logo75x75_2x.jpg?crc=96979344" alt="" data-heightwidthratio="1" data-image-width="75" data-image-height="75" data-orig-id="u148961_img" src="../images/blank.gif?crc=4208392903"/></a>
      </div>
-     <div class="clearfix colelem" id="pu97122-6"><!-- group -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu97122-6"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u97122-6_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u97121-6_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u148963-6_content"><!-- placeholder node --></span>
      </div>
      <img class="colelem temp_no_id temp_no_img_src" alt="Welcome to Network Services Network Services is the centralised home for all Cherry Universe networking services. Also known as Live Services, Network Services provides a foundation and central home for all of the online / internet based products or services that we produce. From the power of L-NET to the social productivity of Celestial Universe, Network Services is a critical part of our Universe's ecosystem and provides one of the best networked service platform that we have ever made. Welcome to Network Services. Lets get started!" data-orig-src="../images/u97107-142.png?crc=325350899" data-hidpi-src="../images/u97107-14_2x2.png?crc=284695724" data-image-width="380" data-orig-id="u97107-14" src="../images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      <span class="browser_width colelem placeholder" data-placeholder-for="u97124-bw_content"><!-- placeholder node --></span>
@@ -162,24 +187,38 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="verticalspacer" data-offset-top="1657" data-content-above-spacer="1657" data-content-below-spacer="70" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u93568-bw_content"><!-- placeholder node --></span>
    </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="../images/unavailable.png?crc=4136258698" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/unavailable_2x.png?crc=4264099715" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_rollover.png?crc=125515327" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_rollover_2x.png?crc=4094218968" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_mousedown.png?crc=4137614313" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_mousedown_2x.png?crc=110711512" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on.png?crc=398345189" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_2x.png?crc=463176457" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_rollover.png?crc=3975682548" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_rollover_2x.png?crc=155171200" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_mousedown.png?crc=398345189" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_mousedown_2x.png?crc=3799609924" alt="" src="../images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
   <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu93571-4"><!-- column -->
      <span class="browser_width colelem placeholder" data-placeholder-for="u93571-4-bw_content"><!-- placeholder node --></span>
      <div class="browser_width colelem temp_no_id" data-orig-id="menuu93574-bw">
-      <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu93574"><!-- horizontal box -->
+      <nav class="MenuBar rounded-corners clearfix temp_no_id" data-orig-id="menuu93574"><!-- horizontal box -->
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93575"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u93578"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93581-4"><!-- content --><span class="placeholder" data-placeholder-for="u93581-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem temp_no_id" href="index.html" data-orig-id="u93578"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93581-4"><!-- content --><span class="placeholder" data-placeholder-for="u93581-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93582"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem temp_no_id" href="live.html" data-orig-id="u93583"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93586-4"><!-- content --><span class="placeholder" data-placeholder-for="u93586-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox rounded-corners clearfix colelem temp_no_id" href="live.html" data-orig-id="u93583"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93586-4"><!-- content --><span class="placeholder" data-placeholder-for="u93586-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93619"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="products.html" data-orig-id="u93622"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93625-4"><!-- content --><span class="placeholder" data-placeholder-for="u93625-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem temp_no_id" href="products.html" data-orig-id="u93622"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93625-4"><!-- content --><span class="placeholder" data-placeholder-for="u93625-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
        <div class="MenuItemContainer clearfix grpelem temp_no_id" data-orig-id="u93640"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="support.html" data-orig-id="u93643"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93644-4"><!-- content --><span class="placeholder" data-placeholder-for="u93644-4_0_content"><!-- placeholder node --></span></div></a>
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox rounded-corners clearfix colelem temp_no_id" href="support.html" data-orig-id="u93643"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem temp_no_id" data-orig-id="u93644-4"><!-- content --><span class="placeholder" data-placeholder-for="u93644-4_0_content"><!-- placeholder node --></span></div></a>
        </div>
       </nav>
      </div>
@@ -200,10 +239,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clearfix colelem temp_no_id" data-orig-id="pu97114"><!-- group -->
       <a class="nonblock nontext clip_frame grpelem temp_no_id" href="celestial.html" data-orig-id="u97114"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="../images/celestial%20anarchy72x73.png?crc=3959088489" data-hidpi-src="../images/celestial%20anarchy72x73_2x.png?crc=349775709" alt="" data-heightwidthratio="1" data-image-width="72" data-image-height="72" data-orig-id="u97114_img" src="../images/blank.gif?crc=4208392903"/></a>
       <a class="nonblock nontext clip_frame grpelem temp_no_id" href="l-net.html" data-orig-id="u97110"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="../images/l-net%20logo%20transparent72x72.png?crc=220322306" data-hidpi-src="../images/l-net%20logo%20transparent72x72_2x.png?crc=215521166" alt="" data-heightwidthratio="1" data-image-width="72" data-image-height="72" data-orig-id="u97110_img" src="../images/blank.gif?crc=4208392903"/></a>
+      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="solar.html" data-orig-id="u148961"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="../images/solar%20globe%20logo72x72.jpg?crc=4124289189" data-hidpi-src="../images/solar%20globe%20logo72x72_2x.jpg?crc=191496894" alt="" data-heightwidthratio="1" data-image-width="72" data-image-height="72" data-orig-id="u148961_img" src="../images/blank.gif?crc=4208392903"/></a>
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu97122-6"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u97122-6_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u97121-6_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u148963-6_content"><!-- placeholder node --></span>
      </div>
      <img class="colelem temp_no_id temp_no_img_src" alt="Welcome to Network Services Network Services is the centralised home for all Cherry Universe networking services. Also known as Live Services, Network Services provides a foundation and central home for all of the online / internet based products or services that we produce. From the power of L-NET to the social productivity of Celestial Universe, Network Services is a critical part of our Universe's ecosystem and provides one of the best networked service platform that we have ever made. Welcome to Network Services. Lets get started!" data-orig-src="../images/u97107-143.png?crc=199475937" data-hidpi-src="../images/u97107-14_2x3.png?crc=121950155" data-image-width="320" data-orig-id="u97107-14" src="../images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      <span class="browser_width colelem placeholder" data-placeholder-for="u97124-bw_content"><!-- placeholder node --></span>
@@ -213,6 +254,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="verticalspacer" data-offset-top="1778" data-content-above-spacer="1777" data-content-below-spacer="70" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u93568-bw_content"><!-- placeholder node --></span>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="../images/unavailable.png?crc=4136258698" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/unavailable_2x.png?crc=4264099715" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_rollover.png?crc=125515327" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_rollover_2x.png?crc=4094218968" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_mousedown.png?crc=4137614313" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/off_mousedown_2x.png?crc=110711512" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on.png?crc=398345189" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_2x.png?crc=463176457" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_rollover.png?crc=3975682548" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_rollover_2x.png?crc=155171200" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_mousedown.png?crc=398345189" alt="" src="../images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="../images/on_mousedown_2x.png?crc=3799609924" alt="" src="../images/blank.gif?crc=4208392903"/>
    </div>
   </div>
   <!-- Other scripts -->
@@ -226,7 +281,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","jquery.musepolyfill.bgsize","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
