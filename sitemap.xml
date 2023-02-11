@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cherryuniverse.github.io/index.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/index.html"/>
@@ -133,6 +133,9 @@
       <image:loc>http://cherryuniverse.github.io/images/c-gaming%20centre%20logo_0266x66.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/cu%20products%20and%20services%20logo_0166x66.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/c-gaming%20centre%20logo_0270x70.png</image:loc>
     </image:image>
     <image:image>
@@ -185,6 +188,15 @@
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/c-gaming%20centre%20logo_0266x66_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/cu%20products%20and%20services%20logo_0166x66_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/universal%20suite%20icon66x66.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/universal%20suite%20icon66x66_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/messaged%20games67x66_2x.png</image:loc>
@@ -355,6 +367,12 @@
       <image:loc>http://cherryuniverse.github.io/images/cherry%20central-crop-u426_2x11.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/l-net%20logo%20transparent_0167x67.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/l-net%20logo%20transparent_0171x71.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/l-net%20logo%20transparent_0175x75.png</image:loc>
     </image:image>
     <image:image>
@@ -478,6 +496,18 @@
       <image:loc>http://cherryuniverse.github.io/images/gallery%20logo_0266x67_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20globe%20logo_0067x67.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20globe%20logo_0067x67_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20globe%20logo_0071x71.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20globe%20logo_0071x71_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solar%20globe%20logo_00.jpg</image:loc>
     </image:image>
     <image:image>
@@ -528,7 +558,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/mezta-games.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -618,7 +648,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/live-support.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/live-support.html"/>
@@ -814,7 +844,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/products.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/products.html"/>
@@ -1148,7 +1178,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/support.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/support.html"/>
@@ -1338,7 +1368,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/central.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/central.html"/>
@@ -1420,7 +1450,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cnews.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1447,7 +1477,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/celestial-otherworld.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/celestial-otherworld.html"/>
@@ -1649,7 +1679,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/celestial-archives.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/celestial-archives.html"/>
@@ -1755,7 +1785,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/solaris-chat.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/solaris-chat.html"/>
@@ -1831,7 +1861,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/rebuild-2023.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/rebuild-2023.html"/>
@@ -2039,7 +2069,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/universal-suite.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/universal-suite.html"/>
@@ -2139,7 +2169,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/rebuild-archive.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/rebuild-archive.html"/>
@@ -2272,7 +2302,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cherry-tv.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/cherry-tv.html"/>
@@ -2510,7 +2540,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/the-gallery.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/the-gallery.html"/>
@@ -4183,16 +4213,10 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup261x261.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup261x261_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon245x245.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup245x245.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup245x245_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon218x218.png</image:loc>
@@ -4201,16 +4225,10 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup218x218.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup218x218_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon204x204.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup204x204.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup204x204_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon177x177.png</image:loc>
@@ -4219,16 +4237,10 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup177x177.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup177x177_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon150x150.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup150x150.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup150x150_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon180x180.png</image:loc>
@@ -4237,16 +4249,10 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup180x180.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup180x180_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon153x153.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup153x153.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup153x153_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon122x122.png</image:loc>
@@ -4255,21 +4261,15 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup122x122.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup122x122_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/celestial%20central%20bot%20icon135x135.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup135x135.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup135x135_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/download-centre.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/download-centre.html"/>
@@ -4351,7 +4351,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/rebuild-classic.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -4435,7 +4435,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cherry-city.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/cherry-city.html"/>
@@ -4793,7 +4793,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/oaktree-universe.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/oaktree-universe.html"/>
@@ -5391,7 +5391,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cc-historical-archives.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -6783,7 +6783,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cc-image-archives.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10419,7 +10419,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/ot-image-archive.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/ot-image-archive.html"/>
@@ -18148,7 +18148,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/time-machine.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/time-machine.html"/>
@@ -18401,13 +18401,13 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/artist-submission-program.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/celestial-flux.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/celestial-flux.html"/>
@@ -18639,7 +18639,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/experimental.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/experimental.html"/>
@@ -18679,7 +18679,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/live-services.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18967,7 +18967,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/celestial.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/celestial.html"/>
@@ -19172,7 +19172,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/l-net.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/l-net.html"/>
@@ -19389,7 +19389,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cherry-updates.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/cherry-updates.html"/>
@@ -19420,7 +19420,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/ctv-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/ctv-support-page.html"/>
@@ -19493,7 +19493,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/gallery-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/gallery-support-page.html"/>
@@ -19566,7 +19566,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cherry-support.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/cherry-support.html"/>
@@ -19705,13 +19705,13 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/271222(teotl).html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/product-support.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/product-support.html"/>
@@ -20015,7 +20015,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/l-net-support.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/l-net-support.html"/>
@@ -20253,7 +20253,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cu-web-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/cu-web-support-page.html"/>
@@ -20290,7 +20290,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/rba-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/rba-support-page.html"/>
@@ -20330,7 +20330,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/c-news-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/c-news-support-page.html"/>
@@ -20403,7 +20403,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cc-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/cc-support-page.html"/>
@@ -20476,7 +20476,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/ot-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/ot-support-page.html"/>
@@ -20516,7 +20516,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/mezta-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/mezta-support-page.html"/>
@@ -20556,7 +20556,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/solaris-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/solaris-support-page.html"/>
@@ -20596,7 +20596,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/download-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/download-support-page.html"/>
@@ -20636,7 +20636,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/rui-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/rui-support-page.html"/>
@@ -20709,7 +20709,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/u-suite-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/u-suite-support-page.html"/>
@@ -20755,7 +20755,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/(gallery)cherrymedia.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22081,7 +22081,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/otherworld-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/otherworld-support-page.html"/>
@@ -22154,7 +22154,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/flux-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/flux-support-page.html"/>
@@ -22194,7 +22194,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/cearch-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/cearch-support-page.html"/>
@@ -22267,7 +22267,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/l-net-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/l-net-support-page.html"/>
@@ -22307,7 +22307,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/bubblenet-support-page.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/bubblenet-support-page.html"/>
@@ -22353,7 +22353,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/solar.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/solar.html"/>
@@ -22547,6 +22547,12 @@
       <image:loc>http://cherryuniverse.github.io/images/solar%20blue%20logo-crop-u1464529.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20red%20logo63x63.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20red%20logo63x63_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solar%20blue%20logo63x63.jpg</image:loc>
     </image:image>
     <image:image>
@@ -22557,6 +22563,21 @@
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solar%20blue%20logo-crop-u14645210.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20globe%20logo87x87.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20red%20logo88x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20red%20logo88x88_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20blue%20logo88x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20blue%20logo88x88_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solar%20red%20logo-crop-u14644911.jpg</image:loc>
@@ -22655,12 +22676,18 @@
       <image:loc>http://cherryuniverse.github.io/images/solarmc%20logo-crop-u14645510.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solarmc%20logo88x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solarmc%20logo88x88_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solarmc%20logo-crop-u14645511.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/(gallery)wallpapers.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23579,13 +23606,7 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup277x277.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup277x277_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/cu%20solar%20wallaper440x248.jpg</image:loc>
@@ -23615,9 +23636,6 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup246x246.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup246x246_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/cu%20solar%20wallaper391x221.jpg</image:loc>
     </image:image>
     <image:image>
@@ -23643,9 +23661,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup231x231.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup231x231_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/cu%20solar%20wallaper367x207.jpg</image:loc>
@@ -23675,9 +23690,6 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup200x200.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup200x200_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/cu%20solar%20wallaper318x180.jpg</image:loc>
     </image:image>
     <image:image>
@@ -23703,9 +23715,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup170x170.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup170x170_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/cu%20solar%20wallaper269x152.jpg</image:loc>
@@ -23735,9 +23744,6 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup148x148.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup148x148_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/cu%20solar%20wallaper235x133.jpg</image:loc>
     </image:image>
     <image:image>
@@ -23765,30 +23771,18 @@
       <image:loc>http://cherryuniverse.github.io/images/squarecup123x123.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup123x123_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup108x108.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup108x108_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup93x93.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup93x93_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://cherryuniverse.github.io/images/squarecup64x64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cherryuniverse.github.io/images/squarecup64x64_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/(gallery)gameimg.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23827,7 +23821,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/(gallery)photography.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23899,7 +23893,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/solar-blue.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/solar-blue.html"/>
@@ -23953,6 +23947,12 @@
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solaris%20chat%20squircle_0193x93.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20blue%20logo79x79.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solaris%20chat%20squircle_01126x126.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/pretty%20light%20spots%20(gardencentretrip)-crop-u147307.jpg</image:loc>
@@ -24041,7 +24041,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/solar-red.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/solar-red.html"/>
@@ -24101,6 +24101,12 @@
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solaris%20chat%20squircle_01141x141.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solar%20red%20logo82x82.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solaris%20chat%20squircle_0198x98.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/golden%20falling%20light%20spots%20(gardencentretrip)-crop-u147254.jpg</image:loc>
@@ -24189,7 +24195,7 @@
   </url>
   <url>
     <loc>http://cherryuniverse.github.io/solarmc.html</loc>
-    <lastmod>2022-12-27</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://cherryuniverse.github.io/phone/solarmc.html"/>
@@ -24252,6 +24258,12 @@
     </image:image>
     <image:image>
       <image:loc>http://cherryuniverse.github.io/images/solarmc%20logo79x79_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solarmc%20logo55x55.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cherryuniverse.github.io/images/solarmc%20logo55x55_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
